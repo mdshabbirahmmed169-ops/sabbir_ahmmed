@@ -81,7 +81,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           >
             <div className="w-10 h-10 rounded-full overflow-hidden border-2 border-amber-500/60 dark:border-amber-400/70 group-hover:border-amber-400 transition-colors shadow-xs shrink-0 bg-slate-900">
               <img
-                src={personalInfo.profilePicture || "/images/profile.jpg"}
+                src={personalInfo.profilePicture || "./images/profile.jpg"}
                 alt={personalInfo.name}
                 className="w-full h-full object-cover"
               />

@@ -116,7 +116,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenResumeModal }) =
 
               <div className="relative w-full h-full rounded-2xl border-2 border-amber-500/40 dark:border-amber-400/50 bg-white dark:bg-slate-900 shadow-2xl overflow-hidden p-2">
                 <img
-                  src={personalInfo.profilePicture || "/images/profile.jpg"}
+                  src={personalInfo.profilePicture || "./images/profile.jpg"}
                   alt={personalInfo.name}
                   className="w-full h-full object-cover rounded-xl shadow-inner"
                 />

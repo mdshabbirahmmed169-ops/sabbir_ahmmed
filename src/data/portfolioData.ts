@@ -111,7 +111,7 @@ export const personalInfo: PersonalInfo = {
   linkedin: "https://www.linkedin.com/in/md-shabbir-ahmmed-378640432/",
   github: "https://github.com/md-sabbir-ahmmed",
   facebook: "https://www.facebook.com/sabbir.ahmmed.357605",
-  profilePicture: "/images/profile.jpg",
+  profilePicture: "./images/profile.jpg",
   heroTagline: "Aspiring Electrical & Electronics Engineer · Technology Enthusiast",
   heroIntro: "EEE student passionate about electrical engineering, electronics, programming, simulation, and technology.",
   aboutBio: "I am an undergraduate engineering student pursuing a B.Sc. (Honours) in Electrical and Electronic Engineering at Jamalpur Science and Technology University (JSTU), Bangladesh. With a strong foundation rooted in science and academic excellence, my focus is bridging theoretical physics and mathematical analysis with real-world circuit design, embedded systems, microcontrollers, and computer simulation.",
@@ -121,7 +121,7 @@ export const personalInfo: PersonalInfo = {
     "Passionate about hands-on prototyping with Arduino, discrete digital logic ICs, and circuit simulation suites.",
     "Driven by sustainable power solutions, smart robotics automation, and simulation-based engineering research."
   ],
-  cvPath: "/cv/my-cv.pdf",
+  cvPath: "./cv/my-cv.pdf",
   interests: [
     "Electrical Engineering",
     "Electronics",
@@ -245,7 +245,7 @@ export const projectsList: ProjectItem[] = [
     ],
     githubUrl: "https://github.com/md-sabbir-ahmmed/robotic-exoskeleton-simulation",
     demoUrl: "",
-    imageUrl: "/images/robotic-exoskeleton.png",
+    imageUrl: "./images/robotic-exoskeleton.png",
     featured: true,
     status: "Simulation / Concept"
   },
@@ -264,7 +264,7 @@ export const projectsList: ProjectItem[] = [
     ],
     githubUrl: "https://github.com/md-sabbir-ahmmed/line-following-robot-arduino",
     demoUrl: "",
-    imageUrl: "/images/line-following-robot.jpg",
+    imageUrl: "./images/line-following-robot.jpg",
     featured: true,
     status: "Completed"
   },
@@ -283,7 +283,7 @@ export const projectsList: ProjectItem[] = [
     ],
     githubUrl: "https://github.com/md-sabbir-ahmmed/bluetooth-control-car-arduino",
     demoUrl: "https://www.facebook.com/share/v/19bLMQ7JHt/",
-    imageUrl: "/images/bluetooth-car.png",
+    imageUrl: "./images/bluetooth-car.png",
     featured: true,
     status: "Completed"
   },
@@ -302,7 +302,7 @@ export const projectsList: ProjectItem[] = [
     ],
     githubUrl: "https://github.com/md-sabbir-ahmmed/4-bit-memory-74ls74",
     demoUrl: "",
-    imageUrl: "/images/4-bit-memory.png",
+    imageUrl: "./images/4-bit-memory.png",
     featured: true,
     status: "Completed"
   },
@@ -321,7 +321,7 @@ export const projectsList: ProjectItem[] = [
     ],
     githubUrl: "https://github.com/md-sabbir-ahmmed/automatic-water-level-controller",
     demoUrl: "",
-    imageUrl: "/images/water-level-controller.png",
+    imageUrl: "./images/water-level-controller.png",
     featured: true,
     status: "Completed"
   }

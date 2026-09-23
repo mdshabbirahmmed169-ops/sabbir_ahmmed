@@ -59,7 +59,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
         <div className="p-4 sm:p-6 max-h-[85vh] overflow-y-auto bg-slate-100 dark:bg-slate-950 flex flex-col items-center">
           <div className="w-full max-w-3xl bg-white shadow-xl rounded-xl overflow-hidden border border-slate-200">
             <img
-              src="/cv/my-cv-preview.png"
+              src="./cv/my-cv-preview.png"
               alt="Md. Sabbir Ahmmed Curriculum Vitae"
               className="w-full h-auto object-contain block"
             />
