@@ -109,7 +109,7 @@ export const personalInfo: PersonalInfo = {
   email: "mdshabbirahmmed169@gmail.com",
   phone: "01730481378",
   linkedin: "https://www.linkedin.com/in/md-shabbir-ahmmed-378640432/",
-  github: "https://github.com/md-sabbir-ahmmed",
+  github: "https://github.com/mdshabbirahmmed169-ops",
   facebook: "https://www.facebook.com/sabbir.ahmmed.357605",
   profilePicture: "./images/profile.jpg",
   heroTagline: "Aspiring Electrical & Electronics Engineer · Technology Enthusiast",
@@ -243,7 +243,7 @@ export const projectsList: ProjectItem[] = [
       "Motor Driver Subsystem (H-Bridge PWM Control)",
       "DC Motor Actuator (Joint Movement Assist)"
     ],
-    githubUrl: "https://github.com/md-sabbir-ahmmed/robotic-exoskeleton-simulation",
+    githubUrl: "https://github.com/mdshabbirahmmed169-ops/robotic-exoskeleton-simulation",
     demoUrl: "",
     imageUrl: "./images/robotic-exoskeleton.png",
     featured: true,
@@ -262,7 +262,7 @@ export const projectsList: ProjectItem[] = [
       "PWM speed regulation to prevent overshoot on tight curves",
       "Modular hardware mounting for quick sensor realignment"
     ],
-    githubUrl: "https://github.com/md-sabbir-ahmmed/line-following-robot-arduino",
+    githubUrl: "https://github.com/mdshabbirahmmed169-ops/line-following-robot-arduino",
     demoUrl: "",
     imageUrl: "./images/line-following-robot.jpg",
     featured: true,
@@ -281,7 +281,7 @@ export const projectsList: ProjectItem[] = [
       "Status indicator LED showing active Bluetooth pairing",
       "Isolated motor and logic power supplies to mitigate inductive voltage spikes"
     ],
-    githubUrl: "https://github.com/md-sabbir-ahmmed/bluetooth-control-car-arduino",
+    githubUrl: "https://github.com/mdshabbirahmmed169-ops/bluetooth-control-car-arduino",
     demoUrl: "https://www.facebook.com/share/v/19bLMQ7JHt/",
     imageUrl: "./images/bluetooth-car.png",
     featured: true,
@@ -300,7 +300,7 @@ export const projectsList: ProjectItem[] = [
       "Master clear / asynchronous reset functionality for register initialization",
       "Verification of setup and hold timing characteristics"
     ],
-    githubUrl: "https://github.com/md-sabbir-ahmmed/4-bit-memory-74ls74",
+    githubUrl: "https://github.com/mdshabbirahmmed169-ops/4-bit-memory-74ls74",
     demoUrl: "",
     imageUrl: "./images/4-bit-memory.png",
     featured: true,
@@ -319,7 +319,7 @@ export const projectsList: ProjectItem[] = [
       "Visual LED state indicators (Low, Medium, Full, Motor Active)",
       "Galvanically isolated relay interface ensuring complete AC mains safety"
     ],
-    githubUrl: "https://github.com/md-sabbir-ahmmed/automatic-water-level-controller",
+    githubUrl: "https://github.com/mdshabbirahmmed169-ops/automatic-water-level-controller",
     demoUrl: "",
     imageUrl: "./images/water-level-controller.png",
     featured: true,
